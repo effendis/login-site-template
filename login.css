@@ -22,8 +22,6 @@ body{
 	background-color: white;
 	margin: 10px 20px;
 	padding: 5px;
-	color: black;
-	font:10px italic;
 	border-radius: 5px;
 	text-align: left;
 }
@@ -36,6 +34,14 @@ body{
 	border-radius: 5px;
 	text-align: left;
 }
+input{
+	border:none;
+	color: black;
+	font:10px italic;
+	width: 45em;
+	height: 2em;
+	
+}
 .bottom-container{
 	background-color: #E0D6D1;
 	color: #8E7271;
@@ -43,4 +49,8 @@ body{
 	padding: 10px;
 	border-radius: 5px;
 	font: 10px normal;
+}
+a{
+		text-decoration: none;
+		color: #8E7271;
 }
